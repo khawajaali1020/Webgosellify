@@ -9,19 +9,19 @@ const offices = [
     name: "Arizona Office",
     flag: "/images/contact/flag-usa.webp",
     address: "1311 W Baseline Road, Tempe, Arizona, 85283, USA",
-    phone: "+1 307 205 5481",
+    phone: "+1 307 393 8789",
   },
   {
     name: "London Office",
     flag: "/images/contact/flag-uk.png",
     address: "71-75 Shelton street, London, WC2H 9JQ, UK",
-    phone: "+1 307 205 5481",
+    phone: "+1 307 393 8789",
   },
   {
-    name: "Bangladesh Office",
-    flag: "/images/contact/flag-bangladesh.webp",
-    address: "RK Road, Ideal Mor, Rangpur, 5400, Bangladesh",
-    phone: "+880 140 064 7156",
+    name: "Pakistan Office",
+    flag: "/images/contact/flag-pakistan.webp",
+    address: "Shalimar Colony St No 15, Multan, 60000, Pakistan",
+    phone: "+92 316 606 7315",
   },
 ];
 
