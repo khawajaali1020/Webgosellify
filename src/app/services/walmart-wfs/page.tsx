@@ -101,7 +101,7 @@ export default function WalmartWFSPage() {
 
               <div style={{ display: "flex", gap: "12px", flexWrap: "wrap" }}>
                 <a
-                  href="https://wa.link/m2ac6m"
+                  href="https://wa.me/message/Q6XJRMT4HKTBF1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary btn-primary-pulse"
@@ -261,7 +261,7 @@ export default function WalmartWFSPage() {
             Profit sharing model — zero management fees until your WFS store is profitable. Our success is tied directly to yours.
           </p>
           <a
-            href="https://wa.link/m2ac6m"
+            href="https://wa.me/message/Q6XJRMT4HKTBF1"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary btn-primary-pulse"
@@ -276,7 +276,7 @@ export default function WalmartWFSPage() {
       {/* Confidence Stats */}
       <ServiceConfidence />
 
-      {/* ── ECOMGARDEN VS OTHERS ── */}
+      {/* ── Gosellify VS OTHERS ── */}
       <section style={{ padding: "55px 0", backgroundColor: "#f6f7f9" }}>
         <div className="container-main">
           <div className="section-header">
@@ -290,7 +290,7 @@ export default function WalmartWFSPage() {
               <thead>
                 <tr>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8" }}>What You Need</th>
-                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>EcomGarden</th>
+                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>Gosellify</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Self-Managing WFS</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Other Agencies</th>
                 </tr>
