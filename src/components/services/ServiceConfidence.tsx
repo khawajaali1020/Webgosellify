@@ -36,7 +36,7 @@ export default function ServiceConfidence() {
       <div className="container-main" ref={sectionRef}>
         <div className="section-header">
           <span className="typo-label">Our Track Record</span>
-          <h2 className="typo-h2">Confidence with EcomGarden Service</h2>
+          <h2 className="typo-h2">Confidence with Gosellify Service</h2>
         </div>
 
         <div
