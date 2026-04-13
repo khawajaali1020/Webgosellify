@@ -72,7 +72,7 @@ export default function Footer() {
                   marginBottom: "16px",
                 }}
               >
-                GoSellify. Your trusted
+                Gosellify. Your trusted
                 partner for complete eCommerce management solutions.
               </p>
               <div className="flex" style={{ gap: "8px" }}>
@@ -199,7 +199,7 @@ export default function Footer() {
               </h4>
               <div style={{ display: "flex", flexDirection: "column", gap: "14px" }}>
                 <a
-                  href="tel:+13072055481"
+                  href="tel:+13073938789"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -225,7 +225,7 @@ export default function Footer() {
                   >
                     <FaPhoneAlt style={{ color: "var(--color-primary)", fontSize: "12px" }} />
                   </span>
-                  +1 307 205 5481
+                  +1 307 393 8789
                 </a>
                 <a
                   href="mailto:info@gosellify.com"
@@ -311,12 +311,12 @@ export default function Footer() {
                     <FaMapMarkerAlt style={{ color: "var(--color-primary)", fontSize: "12px" }} />
                   </span>
                   <span style={{ lineHeight: 1.6 }}>
-                    71-75 Shelton St, London
+                    Office 963, 3 Fitzroy Place, 1/1, Sauchiehall Street,Finnieston, Glasgow Central
                     <br />
-                    WC2H 9JQ, UK
+                    G3 7RH, UK
                     <br />
                     <span style={{ fontSize: "13px", color: "#5a5a70" }}>
-                      Company #13184425
+                      Company #837682
                     </span>
                   </span>
                 </div>
