@@ -22,7 +22,7 @@ const teamMembers = [
   {
     name: "Atikur Shohel",
     title: "Founder & Head Of Business",
-    bio: "Founder & Head Of Business of EcomGarden. Have 9 years experience with ecommerce.",
+    bio: "Founder & Head Of Business of Gosellify. Have 9 years experience with ecommerce.",
     photo: "/images/about/atikur-shohel.jpeg",
   },
   {
@@ -121,10 +121,10 @@ export default function AboutPage() {
             <div>
               <span className="typo-label" style={{ display: "block", marginBottom: "8px" }}>Who We Are</span>
               <h2 className="typo-h2" style={{ marginBottom: "14px" }}>
-                Welcome to EcomGarden
+                Welcome to Gosellify
               </h2>
               <p className="typo-body" style={{ marginBottom: "12px" }}>
-                Hello and welcome to EcomGarden, your friendly Amazon business
+                Hello and welcome to Gosellify, your friendly Amazon business
                 advisor since 2018. We&apos;re thrilled to share our journey
                 with you &ndash; it includes partnering with over 200 clients,
                 completing upward of 250 projects, and growing our team to more
@@ -141,7 +141,7 @@ export default function AboutPage() {
               <p className="typo-body" style={{ marginBottom: "20px" }}>
                 Let us join your Amazon adventure and make your business soar.
                 We keep things straightforward and successful &ndash;
-                that&apos;s the EcomGarden way!
+                that&apos;s the Gosellify way!
               </p>
               <a
                 href="https://wa.link/m2ac6m"
@@ -158,7 +158,7 @@ export default function AboutPage() {
             <div style={{ display: "flex", justifyContent: "center" }}>
               <img
                 src="/images/about/team-group.webp"
-                alt="EcomGarden Team"
+                alt="Gosellify Team"
                 style={{
                   width: "100%",
                   maxWidth: "500px",
@@ -192,13 +192,13 @@ export default function AboutPage() {
               <p className="typo-body" style={{ marginBottom: "14px" }}>
                 By the end of 2018, I started a journey with Amazon. With huge success,
                 I decided to expand with a team. In 2021, we registered in the USA as EKKID LLC.
-                In 2023, we rebranded to &apos;EcomGarden.&apos;
+                In 2023, we rebranded to &apos;Gosellify.&apos;
               </p>
               <div>
                 <p className="typo-h3" style={{ color: "var(--color-primary)", marginBottom: "2px", fontSize: "16px" }}>
                   Atikur Rahman Shohel
                 </p>
-                <p className="typo-small">Founder &amp; Head Of Business, EcomGarden</p>
+                <p className="typo-small">Founder &amp; Head Of Business, Gosellify</p>
               </div>
             </div>
 
@@ -226,7 +226,7 @@ export default function AboutPage() {
         <div className="container-main">
           <div className="section-header">
             <span className="typo-label">Leadership Team</span>
-            <h2 className="typo-h2">Meet The People Behind EcomGarden</h2>
+            <h2 className="typo-h2">Meet The People Behind Gosellify</h2>
             <p className="typo-subtext">
               Our leadership team brings decades of combined ecommerce experience
               across Amazon, Walmart, eBay, and Shopify marketplaces.
