@@ -53,7 +53,7 @@ const boxPrices = [
 const faqs = [
   {
     question: "Where are your warehouses located?",
-    answer: "We operate our own dedicated warehouses in New York, Florida, and Connecticut. These are not shared third-party facilities — they are owned and operated by EcomGarden, giving us full control over quality, speed, and security.",
+    answer: "We operate our own dedicated warehouses in New York, Florida, and Connecticut. These are not shared third-party facilities — they are owned and operated by Gosellify, giving us full control over quality, speed, and security.",
   },
   {
     question: "Do you charge monthly storage fees?",
@@ -222,12 +222,12 @@ export default function ThreePLWarehousePage() {
         </div>
       </section>
 
-      {/* ── ECOMGARDEN VS OTHERS ── */}
+      {/* ── Gosellify VS OTHERS ── */}
       <section style={{ padding: "55px 0", backgroundColor: "#f6f7f9" }}>
         <div className="container-main">
           <div className="section-header">
             <span className="typo-label">WHY CHOOSE US</span>
-            <h2 className="typo-h2">EcomGarden Warehouse vs FBA vs Other 3PLs</h2>
+            <h2 className="typo-h2">Gosellify Warehouse vs FBA vs Other 3PLs</h2>
             <p className="typo-subtext">Whether you sell on Amazon, Walmart, Shopify, eBay, or Etsy — our own warehouses give you more control, lower costs, and better service.</p>
           </div>
 
@@ -236,7 +236,7 @@ export default function ThreePLWarehousePage() {
               <thead>
                 <tr>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8" }}>Feature</th>
-                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>EcomGarden</th>
+                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>Gosellify</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Amazon FBA</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Other 3PLs</th>
                 </tr>
