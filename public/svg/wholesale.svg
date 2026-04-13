@@ -104,7 +104,7 @@
 </g>
 
 <!-- ══════════════════════════════════
-     CENTER: ECOMGARDEN WAREHOUSE
+     CENTER: GOSELLIFY WAREHOUSE
 ══════════════════════════════════ -->
 <rect x="242" y="110" width="196" height="222" rx="20" fill="#F0F7FF" stroke="#7CB9E8" stroke-width="1.2"></rect>
 
@@ -112,7 +112,7 @@
 <rect x="242" y="110" width="196" height="38" rx="20" fill="#2563a8"></rect>
 <rect x="242" y="130" width="196" height="18" fill="#2563a8"></rect>
 <line x1="242" y1="148" x2="438" y2="148" stroke="#1a4f8a" stroke-width="0.6"></line>
-<text font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff" x="340" y="134" text-anchor="middle" dominant-baseline="central" letter-spacing="0.4">EcomGarden</text>
+<text font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff" x="340" y="134" text-anchor="middle" dominant-baseline="central" letter-spacing="0.4">Gosellify</text>
 
 <!-- workbench -->
 <rect x="260" y="296" width="160" height="7" rx="3" fill="#7CB9E8" opacity=".45"></rect>
@@ -129,7 +129,7 @@
 <line x1="340" y1="252" x2="340" y2="312" stroke="#7CB9E8" stroke-width="1.2" mask="url(#imagine-text-gaps-xc0b5j)"></line>
 <line x1="294" y1="282" x2="386" y2="282" stroke="#7CB9E8" stroke-width="1.2"></line>
 <!-- small EG label -->
-<text font-family="Arial,sans-serif" font-size="7.5" font-weight="700" fill="#2563a8" x="340" y="294" text-anchor="middle" dominant-baseline="central" opacity=".6">EcomGarden</text>
+<text font-family="Arial,sans-serif" font-size="7.5" font-weight="700" fill="#2563a8" x="340" y="294" text-anchor="middle" dominant-baseline="central" opacity=".6">Gosellify</text>
 
 <!-- BOX LID (flips open, ref image 2) -->
 <g class="lid">
