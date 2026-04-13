@@ -45,7 +45,7 @@ export default function WhyUsSection() {
       <div className="container-main">
         <div className="section-header">
           <span className="typo-label">Why Choose Us</span>
-          <h2 className="typo-h2">Why 250+ Clients Trust EcomGarden With Their Stores</h2>
+          <h2 className="typo-h2">Why 250+ Clients Trust Gosellify With Their Stores</h2>
           <p className="typo-subtext">
             We&apos;re not just another VA agency — we&apos;re a full-service ecommerce management company
             with our own warehouses, proven systems, and a track record of generating $12M+ in revenue for our clients.
