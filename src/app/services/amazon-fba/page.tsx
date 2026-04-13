@@ -85,7 +85,7 @@ export default function AmazonFBAPage() {
           </p>
           <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", justifyContent: "center" }}>
             <a
-              href="https://wa.link/m2ac6m"
+              href="https://wa.me/message/Q6XJRMT4HKTBF1"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary btn-primary-pulse"
@@ -115,7 +115,7 @@ export default function AmazonFBAPage() {
           <div className="section-header">
             <span className="typo-label">WHY THIS WORKS</span>
             <h2 className="typo-h2">Your Problems. Our Solutions.</h2>
-            <p className="typo-subtext">Whether you&apos;re launching your first product or scaling an existing brand — here&apos;s why 50+ brand owners chose EcomGarden to run their FBA operation.</p>
+            <p className="typo-subtext">Whether you&apos;re launching your first product or scaling an existing brand — here&apos;s why 50+ brand owners chose Gosellify to run their FBA operation.</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5" style={{ marginTop: "28px" }}>
@@ -282,7 +282,7 @@ export default function AmazonFBAPage() {
             Profit sharing model — zero management fees until your FBA brand is profitable. We invest our time and expertise upfront. You pay from results.
           </p>
           <a
-            href="https://wa.link/m2ac6m"
+            href="https://wa.me/message/Q6XJRMT4HKTBF1"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary btn-primary-pulse"
@@ -297,7 +297,7 @@ export default function AmazonFBAPage() {
       {/* Confidence Stats */}
       <ServiceConfidence />
 
-      {/* ── ECOMGARDEN VS OTHERS ── */}
+      {/* ── Gosellify VS OTHERS ── */}
       <section style={{ padding: "55px 0", backgroundColor: "#f6f7f9" }}>
         <div className="container-main">
           <div className="section-header">
@@ -311,7 +311,7 @@ export default function AmazonFBAPage() {
               <thead>
                 <tr>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8" }}>What You Need</th>
-                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>EcomGarden</th>
+                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>Gosellify</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Self-Managing</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Other Agencies</th>
                 </tr>
