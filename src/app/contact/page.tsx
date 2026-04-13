@@ -180,14 +180,14 @@ export default function ContactPage() {
                       Email us
                     </p>
                     <a
-                      href="mailto:info@ecomgarden.com"
+                      href="mailto:info@gosellify.com"
                       style={{
                         fontSize: "15px",
                         fontWeight: 600,
                         color: "var(--color-text)",
                       }}
                     >
-                      info@ecomgarden.com
+                      info@gosellify.com
                     </a>
                   </div>
                 </div>
