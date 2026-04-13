@@ -100,7 +100,7 @@ export default function WalmartDropshippingPage() {
 
               <div style={{ display: "flex", gap: "12px", flexWrap: "wrap" }}>
                 <a
-                  href="https://wa.link/m2ac6m"
+                  href="https://wa.me/message/Q6XJRMT4HKTBF1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary btn-primary-pulse"
@@ -132,7 +132,7 @@ export default function WalmartDropshippingPage() {
           <div className="section-header">
             <span className="typo-label">WHY THIS WORKS</span>
             <h2 className="typo-h2">Your Problems. Our Solutions.</h2>
-            <p className="typo-subtext">Whether you&apos;re starting your first online business or want a hands-off income stream — here&apos;s why sellers chose Walmart dropshipping with EcomGarden.</p>
+            <p className="typo-subtext">Whether you&apos;re starting your first online business or want a hands-off income stream — here&apos;s why sellers chose Walmart dropshipping with Gosellify.</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5" style={{ marginTop: "28px" }}>
@@ -294,7 +294,7 @@ export default function WalmartDropshippingPage() {
             Profit sharing model — zero management fees until your Walmart store is profitable. No other agency puts their money where their mouth is like this.
           </p>
           <a
-            href="https://wa.link/m2ac6m"
+            href="https://wa.me/message/Q6XJRMT4HKTBF1"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary btn-primary-pulse"
@@ -309,7 +309,7 @@ export default function WalmartDropshippingPage() {
       {/* Confidence Stats */}
       <ServiceConfidence />
 
-      {/* ── ECOMGARDEN VS OTHERS ── */}
+      {/* ── Gosellify VS OTHERS ── */}
       <section style={{ padding: "55px 0", backgroundColor: "#fff" }}>
         <div className="container-main">
           <div className="section-header">
@@ -323,7 +323,7 @@ export default function WalmartDropshippingPage() {
               <thead>
                 <tr>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8" }}>What You Need</th>
-                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>EcomGarden</th>
+                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>Gosellify</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Do It Yourself</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Other Agencies</th>
                 </tr>
