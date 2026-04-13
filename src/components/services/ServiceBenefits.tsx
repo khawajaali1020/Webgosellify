@@ -40,9 +40,9 @@ export default function ServiceBenefits() {
       <div className="container-main">
         <div className="section-header">
           <span className="typo-label">Why Choose Us</span>
-          <h2 className="typo-h2">Benefits of Working With EcomGarden</h2>
+          <h2 className="typo-h2">Benefits of Working With Gosellify</h2>
           <p className="typo-subtext" style={{ maxWidth: "780px", margin: "0 auto" }}>
-            EcomGarden is more than a service provider — we are your dedicated ecommerce growth partner.
+            Gosellify is more than a service provider — we are your dedicated ecommerce growth partner.
             From Amazon and Walmart to Shopify, eBay, and Etsy, our team manages your entire store
             operations so you can focus on what matters most. With 250+ happy clients, 55+ active stores,
             and $12M+ in managed revenue, here is what makes working with us different:
