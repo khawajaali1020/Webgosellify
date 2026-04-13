@@ -212,7 +212,7 @@ export default function ContactPage() {
                       WhatsApp
                     </p>
                     <a
-                      href="https://wa.me/13072055481"
+                      href="https://wa.me/13073938789"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{
