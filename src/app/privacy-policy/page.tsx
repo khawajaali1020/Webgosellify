@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - EcomGarden",
-  description: "EcomGarden Privacy Policy",
+  title: "Privacy Policy - Gosellify",
+  description: "Gosellify Privacy Policy",
 };
 
 export default function PrivacyPolicyPage() {
@@ -22,7 +22,7 @@ export default function PrivacyPolicyPage() {
       <section style={{ padding: "55px 0", background: "#fff" }}>
         <div className="container-main" style={{ maxWidth: "720px", margin: "0 auto" }}>
           <p className="typo-body" style={{ marginBottom: "24px" }}>
-            At EcomGarden, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website or use our services.
+            At Gosellify, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website or use our services.
           </p>
 
           <h2 className="typo-h3" style={{ marginBottom: "12px" }}>Information We Collect</h2>
@@ -42,7 +42,7 @@ export default function PrivacyPolicyPage() {
 
           <h2 className="typo-h3" style={{ marginBottom: "12px" }}>Contact Us</h2>
           <p className="typo-body">
-            If you have questions about this Privacy Policy, please contact us at support@ecomgarden.com or call +1 307 205 5481.
+            If you have questions about this Privacy Policy, please contact us at support@Gosellify.com or call +1 307 205 5481.
           </p>
         </div>
       </section>
