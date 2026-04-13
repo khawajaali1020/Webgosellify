@@ -52,7 +52,7 @@ export default function CTASection() {
               <FaChevronRight style={{ fontSize: "10px" }} />
             </Link>
             <a
-              href="https://wa.link/m2ac6m"
+              href="https://wa.me/message/Q6XJRMT4HKTBF1"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-outline-white"
