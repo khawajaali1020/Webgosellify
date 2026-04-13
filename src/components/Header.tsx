@@ -118,7 +118,7 @@ export default function Header() {
           <Link href="/" className="flex items-center flex-shrink-0">
             <img
               src="/images/logo.webp"
-              alt="EcomGarden"
+              alt="Gosellify"
               className="w-auto"
               style={{ height: "42px" }}
             />
@@ -266,7 +266,7 @@ export default function Header() {
           {/* My Account + CTA Buttons */}
           <div className="hidden lg:flex items-center" style={{ gap: "20px" }}>
           <a
-            href="https://portal.ecomgarden.com/"
+            href="https://portal.gosellify.com/"
             target="_blank"
             rel="noopener noreferrer"
             style={{
