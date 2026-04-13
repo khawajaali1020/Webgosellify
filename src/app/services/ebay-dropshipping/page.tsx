@@ -85,7 +85,7 @@ export default function EbayDropshippingPage() {
           </p>
           <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", justifyContent: "center" }}>
             <a
-              href="https://wa.link/m2ac6m"
+              href="https://wa.me/message/Q6XJRMT4HKTBF1"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary btn-primary-pulse"
@@ -221,7 +221,7 @@ export default function EbayDropshippingPage() {
         <div className="container-main">
           <div className="section-header">
             <span className="typo-label">THE HONEST COMPARISON</span>
-            <h2 className="typo-h2">EcomGarden vs Self-Managing vs Other Agencies</h2>
+            <h2 className="typo-h2">Gosellify vs Self-Managing vs Other Agencies</h2>
             <p className="typo-subtext">eBay rewards consistency. Most sellers burn out in 3 months. We&apos;ve been doing it for 3+ years across 20+ marketplaces.</p>
           </div>
 
@@ -230,7 +230,7 @@ export default function EbayDropshippingPage() {
               <thead>
                 <tr>
                   <th style={{ padding: "14px 20px", textAlign: "left", fontWeight: 700, fontSize: "13px", backgroundColor: "#fff", borderBottom: "2px solid #e8e8e8" }}>Feature</th>
-                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary)", minWidth: "120px" }}>EcomGarden</th>
+                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary)", minWidth: "120px" }}>Gosellify</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#fff", borderBottom: "2px solid #e8e8e8", minWidth: "110px" }}>Self-Managing</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#fff", borderBottom: "2px solid #e8e8e8", minWidth: "110px" }}>Other Agencies</th>
                 </tr>
