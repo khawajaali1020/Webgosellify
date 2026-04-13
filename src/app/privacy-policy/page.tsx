@@ -42,7 +42,7 @@ export default function PrivacyPolicyPage() {
 
           <h2 className="typo-h3" style={{ marginBottom: "12px" }}>Contact Us</h2>
           <p className="typo-body">
-            If you have questions about this Privacy Policy, please contact us at support@Gosellify.com or call +1 307 205 5481.
+            If you have questions about this Privacy Policy, please contact us at info@Gosellify.com or call +1 307 393 8789.
           </p>
         </div>
       </section>
