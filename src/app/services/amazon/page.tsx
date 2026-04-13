@@ -77,7 +77,7 @@ export default function AmazonPage() {
             Launch, manage, and scale your Amazon business with proven strategies on the world&apos;s #1 marketplace.
           </p>
           <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", justifyContent: "center" }}>
-            <a href="https://wa.link/m2ac6m" target="_blank" rel="noopener noreferrer" className="btn-primary btn-primary-pulse" style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
+            <a href="https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer" className="btn-primary btn-primary-pulse" style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
               <FaWhatsapp style={{ fontSize: "18px" }} /> Get Free Consultation
             </a>
             <Link href="/pricing" className="btn-outline">View Pricing</Link>
@@ -98,7 +98,7 @@ export default function AmazonPage() {
                 Whether you&apos;re looking to build a wholesale business, launch an FBA brand, or start with low-risk dropshipping, Amazon provides the infrastructure, customer base, and fulfillment network to scale fast.
               </p>
               <p className="typo-body">
-                At EcomGarden, we handle everything from store setup and product sourcing to daily operations and advertising — so you can focus on growing your investment.
+                At Gosellify, we handle everything from store setup and product sourcing to daily operations and advertising — so you can focus on growing your investment.
               </p>
             </div>
             <div style={{ display: "flex", justifyContent: "center" }}>
