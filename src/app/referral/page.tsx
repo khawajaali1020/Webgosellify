@@ -69,7 +69,7 @@ export default function ReferralPage() {
               rel="noopener noreferrer"
               className="btn-primary inline-flex items-center gap-2"
             >
-              <FaWhatsapp className="text-lg" /> Join Affiliate Today
+              <FaWhatsapp className="text-lg" /> Join Affiliate
             </a>
           </div>
         </div>
