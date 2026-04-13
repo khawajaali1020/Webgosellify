@@ -96,13 +96,13 @@ export default function AmazonReinstatementPage() {
           </div>
 
           <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
-            <a href="https:https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
+            <a href="https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
               className="btn-primary btn-primary-pulse"
               style={{ display: "inline-flex", alignItems: "center", gap: "8px", fontSize: "16px", padding: "14px 28px" }}>
               <FaWhatsapp style={{ fontSize: "20px" }} />
               Get Emergency Help Now
             </a>
-            <a href="https:https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
+            <a href="https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
               className="btn-outline-white"
               style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
               Free Case Assessment
@@ -265,7 +265,7 @@ export default function AmazonReinstatementPage() {
           <p style={{ color: "rgba(255,255,255,0.7)", fontSize: "15px", maxWidth: "500px", margin: "0 auto 24px" }}>
             Free case assessment within 2 hours. Money-back guarantee if we can&apos;t reinstate.
           </p>
-          <a href="https://https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
+          <a href="https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
             className="btn-primary btn-primary-pulse"
             style={{ display: "inline-flex", alignItems: "center", gap: "8px", fontSize: "16px", padding: "14px 28px" }}>
             <FaWhatsapp style={{ fontSize: "20px" }} />
