@@ -285,7 +285,7 @@ export default function Header() {
             Login
           </a>
           <a
-            href="https://wa.link/m2ac6m"
+            href="https://wa.me/message/Q6XJRMT4HKTBF1"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-accent"
@@ -424,7 +424,7 @@ export default function Header() {
           {/* Mobile CTA */}
           <div style={{ padding: "8px 16px 4px" }}>
             <a
-              href="https://wa.link/m2ac6m"
+              href="https://wa.me/message/Q6XJRMT4HKTBF1"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-accent"
