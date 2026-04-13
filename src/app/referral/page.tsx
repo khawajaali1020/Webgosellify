@@ -3,8 +3,8 @@ import { FaCheck, FaWhatsapp } from "react-icons/fa";
 import CTASection from "@/components/home/CTASection";
 
 export const metadata: Metadata = {
-  title: "Affiliate Referral Program - EcomGarden",
-  description: "Earn $1,000+ every month by referring clients to EcomGarden.",
+  title: "Affiliate Referral Program - Gosellify",
+  description: "Earn $1,000+ every month by referring clients to Gosellify.",
 };
 
 const benefits = [
@@ -40,7 +40,7 @@ export default function ReferralPage() {
               Why Join Our <span style={{ color: "var(--color-primary)" }}>Affiliate Program</span>?
             </h2>
             <p className="typo-subtext" style={{ maxWidth: "600px", margin: "10px auto 0" }}>
-              Partner with EcomGarden and earn generous commissions for every client you refer. Our affiliate program is designed to reward you for helping others discover our premium eCommerce management services.
+              Partner with Gosellify and earn generous commissions for every client you refer. Our affiliate program is designed to reward you for helping others discover our premium eCommerce management services.
             </p>
           </div>
 
