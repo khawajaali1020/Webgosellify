@@ -48,7 +48,7 @@ export default function Footer() {
               <Link href="/" style={{ display: "inline-block", marginBottom: "12px" }}>
                 <img
                   src="/images/logo-white.webp"
-                  alt="EcomGarden"
+                  alt="gosellify"
                   style={{ height: "44px", width: "auto" }}
                 />
               </Link>
@@ -72,7 +72,7 @@ export default function Footer() {
                   marginBottom: "16px",
                 }}
               >
-                Operated by Ekkid LLC (USA) & ITFLE LTD (UK). Your trusted
+                GoSellify. Your trusted
                 partner for complete eCommerce management solutions.
               </p>
               <div className="flex" style={{ gap: "8px" }}>
@@ -228,7 +228,7 @@ export default function Footer() {
                   +1 307 205 5481
                 </a>
                 <a
-                  href="mailto:info@ecomgarden.com"
+                  href="mailto:info@gosellify.com"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -254,7 +254,7 @@ export default function Footer() {
                   >
                     <FaEnvelope style={{ color: "var(--color-primary)", fontSize: "12px" }} />
                   </span>
-                  info@ecomgarden.com
+                  info@gosellify.com
                 </a>
                 <div
                   style={{
@@ -335,7 +335,7 @@ export default function Footer() {
           >
             <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
               <p style={{ color: "#5a5a70", fontSize: "14px" }}>
-                &copy; {new Date().getFullYear()} EcomGarden. All Rights Reserved.
+                &copy; {new Date().getFullYear()} GoSellify. All Rights Reserved.
               </p>
               <div className="flex items-center" style={{ gap: "20px" }}>
                 <Link
