@@ -97,7 +97,7 @@ export default function FlatRateShippingPage() {
                 Shipping costs are one of the biggest margin killers for
                 ecommerce sellers. Whether you sell on Amazon FBM, eBay,
                 Shopify, or Walmart, every dollar spent on shipping is a dollar
-                taken from your profit. At EcomGarden, we have negotiated bulk
+                taken from your profit. At Gosellify, we have negotiated bulk
                 commercial rates with USPS and UPS that allow us to offer USPS
                 Priority Mail labels at a flat rate of just{" "}
                 <strong>$4 per label</strong> &mdash; regardless of weight or
@@ -242,7 +242,7 @@ export default function FlatRateShippingPage() {
                     }}
                   >
                     <p className="typo-small" style={{ marginBottom: "8px", color: "#999" }}>
-                      EcomGarden Rate
+                      Gosellify Rate
                     </p>
                     <p className="typo-h2" style={{ color: "var(--color-primary)" }}>
                       $4
