@@ -101,7 +101,7 @@ export default function AmazonArbitragePage() {
 
               <div style={{ display: "flex", gap: "12px", flexWrap: "wrap" }}>
                 <a
-                  href="https://wa.link/m2ac6m"
+                  href="https://wa.me/message/Q6XJRMT4HKTBF1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary btn-primary-pulse"
@@ -337,7 +337,7 @@ export default function AmazonArbitragePage() {
             Profit sharing model — zero management fees until your store is profitable. No other agency puts their money where their mouth is like this.
           </p>
           <a
-            href="https://wa.link/m2ac6m"
+            href="https://wa.me/message/Q6XJRMT4HKTBF1"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary btn-primary-pulse"
