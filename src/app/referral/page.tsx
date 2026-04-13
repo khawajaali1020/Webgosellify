@@ -64,7 +64,7 @@ export default function ReferralPage() {
 
           <div className="text-center">
             <a
-              href="https://wa.me/13072055481"
+              href="https://wa.me/message/Q6XJRMT4HKTBF1"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary inline-flex items-center gap-2"
