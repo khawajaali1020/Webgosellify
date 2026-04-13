@@ -13,7 +13,7 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "EcomGarden - All-in-one Automated Ecommerce Management Services",
+  title: "Gosellify - All-in-one Automated Ecommerce Management Services",
   description:
     "Start, Grow & Scale Your eCommerce Businesses with our All-in-one Automated Ecommerce Management Services. Amazon, Walmart, eBay, Shopify store management.",
   keywords:
