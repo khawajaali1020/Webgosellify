@@ -155,7 +155,7 @@ export default function ContactPage() {
                         color: "var(--color-text)",
                       }}
                     >
-                      +1 307 205 5481
+                      +1 307 393 8789
                     </a>
                   </div>
                 </div>
