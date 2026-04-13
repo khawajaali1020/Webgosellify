@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Terms & Conditions - EcomGarden",
-  description: "EcomGarden Terms and Conditions",
+  title: "Terms & Conditions - Gosellify",
+  description: "Gosellify Terms and Conditions",
 };
 
 export default function TermsPage() {
@@ -22,12 +22,12 @@ export default function TermsPage() {
       <section style={{ padding: "55px 0", background: "#fff" }}>
         <div className="container-main" style={{ maxWidth: "720px", margin: "0 auto" }}>
           <p className="typo-body" style={{ marginBottom: "24px" }}>
-            Welcome to EcomGarden. By using our website and services, you agree to be bound by these Terms and Conditions.
+            Welcome to Gosellify. By using our website and services, you agree to be bound by these Terms and Conditions.
           </p>
 
           <h2 className="typo-h3" style={{ marginBottom: "12px" }}>Services</h2>
           <p className="typo-body" style={{ marginBottom: "24px" }}>
-            EcomGarden provides eCommerce management services including Amazon, Walmart, and Shopify store management, warehouse services, and shipping solutions.
+            Gosellify provides eCommerce management services including Amazon, Walmart, and Shopify store management, warehouse services, and shipping solutions.
           </p>
 
           <h2 className="typo-h3" style={{ marginBottom: "12px" }}>Payment Terms</h2>
@@ -37,12 +37,12 @@ export default function TermsPage() {
 
           <h2 className="typo-h3" style={{ marginBottom: "12px" }}>Limitation of Liability</h2>
           <p className="typo-body" style={{ marginBottom: "24px" }}>
-            EcomGarden shall not be liable for any indirect, incidental, special, or consequential damages resulting from the use of our services.
+            Gosellify shall not be liable for any indirect, incidental, special, or consequential damages resulting from the use of our services.
           </p>
 
           <h2 className="typo-h3" style={{ marginBottom: "12px" }}>Contact</h2>
           <p className="typo-body">
-            For questions about these terms, contact us at support@ecomgarden.com or call +1 307 205 5481.
+            For questions about these terms, contact us at support@Gosellify.com or call +1 307 205 5481.
           </p>
         </div>
       </section>
