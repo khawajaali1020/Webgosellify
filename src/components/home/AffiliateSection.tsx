@@ -24,7 +24,7 @@ export default function AffiliateSection() {
               Become an Affiliate Partner — Earn $1,000+/month per referral*
             </h2>
             <p className="typo-body" style={{ color: "rgba(255,255,255,0.85)", margin: "0 auto 16px", maxWidth: "600px" }}>
-              No selling required. Just refer clients to EcomGarden and earn recurring monthly commissions.
+              No selling required. Just refer clients to Gosellify and earn recurring monthly commissions.
               Our top affiliates earn $5,000+ per month with just a few referrals.
             </p>
             <Link
