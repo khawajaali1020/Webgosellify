@@ -217,7 +217,7 @@ export default function PricingPage() {
 
               <div style={{ display: "flex", flexWrap: "wrap", gap: "10px" }}>
                 <a
-                  href="https://wa.link/m2ac6m"
+                  href="https://wa.me/message/Q6XJRMT4HKTBF1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary"
