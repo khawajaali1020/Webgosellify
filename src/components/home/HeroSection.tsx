@@ -135,7 +135,7 @@ export default function HeroSection() {
                   See Our Results
                 </Link>
                 <a
-                  href="https://wa.link/m2ac6m"
+                  href="https://wa.me/message/Q6XJRMT4HKTBF1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-outline"
@@ -350,7 +350,7 @@ export default function HeroSection() {
                   border: "none",
                 }}
                 src="https://www.youtube.com/embed/9DqDFAGLPrc?autoplay=1"
-                title="EcomGarden - Client Results"
+                title="Gosellify - Client Results"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
               />
