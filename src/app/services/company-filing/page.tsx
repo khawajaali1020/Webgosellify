@@ -124,7 +124,7 @@ export default function CompanyFilingPage() {
           </p>
           <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", justifyContent: "center" }}>
             <a
-              href="https://wa.link/m2ac6m"
+              href="https://wa.me/message/Q6XJRMT4HKTBF1"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary btn-primary-pulse"
@@ -276,7 +276,7 @@ export default function CompanyFilingPage() {
         <div className="container-main">
           <div className="section-header">
             <span className="typo-label">WHY CHOOSE US</span>
-            <h2 className="typo-h2">EcomGarden vs Generic Filing Services</h2>
+            <h2 className="typo-h2">Gosellify vs Generic Filing Services</h2>
             <p className="typo-subtext">We&apos;re not a generic LegalZoom. We&apos;re ecommerce specialists.</p>
           </div>
 
@@ -285,7 +285,7 @@ export default function CompanyFilingPage() {
               <thead>
                 <tr>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8" }}>Feature</th>
-                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>EcomGarden</th>
+                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>Gosellify</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "130px" }}>Others</th>
                 </tr>
               </thead>
@@ -361,7 +361,7 @@ export default function CompanyFilingPage() {
                   ))}
                 </div>
                 <a
-                  href="https://wa.link/m2ac6m"
+                  href="https://wa.me/message/Q6XJRMT4HKTBF1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={pkg.popular ? "btn-primary" : "btn-outline"}
