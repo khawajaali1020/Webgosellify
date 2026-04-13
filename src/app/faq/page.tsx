@@ -222,7 +222,7 @@ export default function FAQPage() {
               style={{ gap: "10px" }}
             >
               <a
-                href="https://wa.link/m2ac6m"
+                href="https://wa.me/message/Q6XJRMT4HKTBF1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary"
