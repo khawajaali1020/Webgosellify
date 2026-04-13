@@ -28,9 +28,9 @@ const serviceLinks = [
 ];
 
 const socialLinks = [
-  { icon: FaFacebookF, href: "https://facebook.com/ecomgarden", label: "Facebook" },
-  { icon: FaYoutube, href: "https://youtube.com/@ecomgarden", label: "YouTube" },
-  { icon: FaLinkedinIn, href: "https://linkedin.com/company/ecomgarden", label: "LinkedIn" },
+  { icon: FaFacebookF, href: "https://www.facebook.com/profile.php?id=61555382275675", label: "Facebook" },
+  { icon: FaYoutube, href: "https://www.youtube.com/@gosellify", label: "YouTube" },
+  { icon: FaLinkedinIn, href: "http://linkedin.com/company/gosellify/", label: "LinkedIn" },
 ];
 
 export default function Footer() {
