@@ -77,7 +77,7 @@ export default function WalmartPage() {
             Tap into the fastest-growing ecommerce marketplace with 120M+ monthly visitors and significantly lower competition.
           </p>
           <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", justifyContent: "center" }}>
-            <a href="https://wa.link/m2ac6m" target="_blank" rel="noopener noreferrer" className="btn-primary btn-primary-pulse" style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
+            <a href="https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer" className="btn-primary btn-primary-pulse" style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
               <FaWhatsapp style={{ fontSize: "18px" }} /> Get Free Consultation
             </a>
             <Link href="/pricing" className="btn-outline">View Pricing</Link>
@@ -98,7 +98,7 @@ export default function WalmartPage() {
                 Walmart&apos;s fulfillment infrastructure, trusted brand reputation, and growing online presence make it the ideal platform for sellers looking to diversify beyond Amazon or enter ecommerce for the first time.
               </p>
               <p className="typo-body">
-                EcomGarden helps you navigate Walmart&apos;s approval process, set up your store, source products, and manage daily operations — giving you a head start on this rapidly growing platform.
+                Gosellify helps you navigate Walmart&apos;s approval process, set up your store, source products, and manage daily operations — giving you a head start on this rapidly growing platform.
               </p>
             </div>
             <div style={{ display: "flex", justifyContent: "center" }}>
