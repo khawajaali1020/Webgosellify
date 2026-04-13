@@ -96,13 +96,13 @@ export default function AmazonReinstatementPage() {
           </div>
 
           <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
-            <a href="https://wa.link/m2ac6m" target="_blank" rel="noopener noreferrer"
+            <a href="https:https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
               className="btn-primary btn-primary-pulse"
               style={{ display: "inline-flex", alignItems: "center", gap: "8px", fontSize: "16px", padding: "14px 28px" }}>
               <FaWhatsapp style={{ fontSize: "20px" }} />
               Get Emergency Help Now
             </a>
-            <a href="https://wa.link/m2ac6m" target="_blank" rel="noopener noreferrer"
+            <a href="https:https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
               className="btn-outline-white"
               style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
               Free Case Assessment
@@ -221,7 +221,7 @@ export default function AmazonReinstatementPage() {
         <div className="container-main">
           <div className="section-header">
             <span className="typo-label">THE HONEST COMPARISON</span>
-            <h2 className="typo-h2">EcomGarden vs DIY Appeals vs Legal Firms</h2>
+            <h2 className="typo-h2">Gosellify vs DIY Appeals vs Legal Firms</h2>
             <p className="typo-subtext">Most sellers try DIY first, fail, then come to us. Save time — start with experts.</p>
           </div>
 
@@ -230,7 +230,7 @@ export default function AmazonReinstatementPage() {
               <thead>
                 <tr>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8" }}>What You Need</th>
-                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>EcomGarden</th>
+                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>Gosellify</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>DIY Appeal</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "120px" }}>Legal Firms</th>
                 </tr>
@@ -265,7 +265,7 @@ export default function AmazonReinstatementPage() {
           <p style={{ color: "rgba(255,255,255,0.7)", fontSize: "15px", maxWidth: "500px", margin: "0 auto 24px" }}>
             Free case assessment within 2 hours. Money-back guarantee if we can&apos;t reinstate.
           </p>
-          <a href="https://wa.link/m2ac6m" target="_blank" rel="noopener noreferrer"
+          <a href="https://https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer"
             className="btn-primary btn-primary-pulse"
             style={{ display: "inline-flex", alignItems: "center", gap: "8px", fontSize: "16px", padding: "14px 28px" }}>
             <FaWhatsapp style={{ fontSize: "20px" }} />
