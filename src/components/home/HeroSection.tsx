@@ -179,7 +179,7 @@ export default function HeroSection() {
                   <circle cx="24" cy="24" r="5" fill="#e74c3c" />
                   <circle cx="42" cy="24" r="5" fill="#f59e0b" />
                   <circle cx="60" cy="24" r="5" fill="#16a34a" />
-                  <text x="220" y="28" textAnchor="middle" fill="#9494ac" fontSize="12" fontFamily="Roboto, sans-serif">EcomGarden Dashboard</text>
+                  <text x="220" y="28" textAnchor="middle" fill="#9494ac" fontSize="12" fontFamily="Roboto, sans-serif">Gosellify Dashboard</text>
 
                   {/* Revenue — values change with transition */}
                   <text x="30" y="80" fill="#999" fontSize="11" fontFamily="Roboto, sans-serif">TOTAL REVENUE</text>
