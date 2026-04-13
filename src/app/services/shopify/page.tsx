@@ -83,7 +83,7 @@ export default function ShopifyPage() {
             Build, design, and grow your own ecommerce brand on the world&apos;s most popular ecommerce platform.
           </p>
           <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", justifyContent: "center" }}>
-            <a href="https://wa.link/m2ac6m" target="_blank" rel="noopener noreferrer" className="btn-primary btn-primary-pulse" style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
+            <a href="https://wa.me/message/Q6XJRMT4HKTBF1" target="_blank" rel="noopener noreferrer" className="btn-primary btn-primary-pulse" style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}>
               <FaWhatsapp style={{ fontSize: "18px" }} /> Get Free Consultation
             </a>
             <Link href="/contact" className="btn-outline">Get Pricing</Link>
@@ -104,7 +104,7 @@ export default function ShopifyPage() {
                 With thousands of apps, fully customizable themes, and built-in payment processing, Shopify is the most versatile ecommerce platform available. Whether you&apos;re launching a dropshipping business or building a premium brand, it scales with you.
               </p>
               <p className="typo-body">
-                EcomGarden offers end-to-end Shopify services — from store setup and custom theme development to marketing and ongoing management — so your store looks professional and drives real sales from day one.
+                Gosellify offers end-to-end Shopify services — from store setup and custom theme development to marketing and ongoing management — so your store looks professional and drives real sales from day one.
               </p>
             </div>
             <div style={{ display: "flex", justifyContent: "center" }}>
