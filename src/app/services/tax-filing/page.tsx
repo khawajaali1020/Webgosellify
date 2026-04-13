@@ -73,7 +73,7 @@ export default function TaxFilingPage() {
           </p>
           <div style={{ display: "flex", gap: "12px", flexWrap: "wrap", justifyContent: "center" }}>
             <a
-              href="https://wa.link/m2ac6m"
+              href="https://wa.me/message/Q6XJRMT4HKTBF1"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary btn-primary-pulse"
@@ -219,7 +219,7 @@ export default function TaxFilingPage() {
                 Form 5472 is required for ALL non-resident LLC owners — even with zero US income. Most DIY software doesn&apos;t support this form.
               </p>
               <a
-                href="https://wa.link/m2ac6m"
+                href="https://wa.me/message/Q6XJRMT4HKTBF1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary btn-primary-pulse"
@@ -238,7 +238,7 @@ export default function TaxFilingPage() {
         <div className="container-main">
           <div className="section-header">
             <span className="typo-label">WHY CHOOSE US</span>
-            <h2 className="typo-h2">EcomGarden vs General Accountants</h2>
+            <h2 className="typo-h2">Gosellify vs General Accountants</h2>
             <p className="typo-subtext">Your Amazon CPA, not a generic tax preparer.</p>
           </div>
 
@@ -247,7 +247,7 @@ export default function TaxFilingPage() {
               <thead>
                 <tr>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8" }}>Feature</th>
-                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>EcomGarden</th>
+                  <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "var(--color-primary)", color: "#fff", borderBottom: "2px solid var(--color-primary-dark)", minWidth: "130px" }}>Gosellify</th>
                   <th style={{ padding: "14px 20px", textAlign: "center", fontWeight: 700, fontSize: "13px", backgroundColor: "#f6f7f9", borderBottom: "2px solid #e8e8e8", minWidth: "130px" }}>Others</th>
                 </tr>
               </thead>
