@@ -6,7 +6,7 @@ const stats = [
   { value: "200+", label: "Clients Worldwide" },
   { value: "250+", label: "Projects Completed" },
   { value: "50+", label: "Team Members" },
-  { value: "9", label: "Countries Served" },
+  { value: "3", label: "Countries Served" },
 ];
 
 const values = [
@@ -65,7 +65,7 @@ export default function AboutPage() {
         <div className="container-main text-center">
           <span className="typo-label">About Us</span>
           <h1 className="typo-h1" style={{ marginTop: "8px", marginBottom: "12px" }}>
-            Your Trusted eCommerce Partner Since 2018
+            Your Trusted eCommerce Partner Since 2022
           </h1>
           <p className="typo-subtext" style={{ maxWidth: "560px", margin: "0 auto 32px" }}>
             We help entrepreneurs build and scale profitable Amazon, eBay, Walmart, and
@@ -183,14 +183,17 @@ export default function AboutPage() {
                 From Freelancer to Full-Service Agency
               </h2>
               <p className="typo-body" style={{ marginBottom: "12px" }}>
-                In 2014, I began my web development journey on Odesk, a
-                freelancer marketplace. I worked on various projects and
-                initially focused on a dropshipping store in 2016. In 2018, I started
-                my first ecommerce website and sold items on eBay. That was an
-                amazing turning point in my career.
+                In 2018, I started my journey as an SEO expert on Fiverr,
+                working with different clients and helping improve their dropshipping stores.
+                I worked on many projects and always focused on giving the best results.
+                In 2020, I started learning and working on Amazon dropshipping
+                at Ecomhutsy in Multan, where I gained real experience in eCommerce.
+                In 2022, I started my own business, and after getting good success,
+                decided to grow with a team. In 2023,
+                I registered my company in the USA as Gosellify LLC.
               </p>
               <p className="typo-body" style={{ marginBottom: "14px" }}>
-                By the end of 2018, I started a journey with Amazon. With huge success,
+                By the end of 2022, I started a journey with Amazon. With huge success,
                 I decided to expand with a team. In 2021, we registered in the USA as Gosellify LLC.
               </p>
               <div>
