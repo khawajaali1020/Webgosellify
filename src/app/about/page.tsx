@@ -178,26 +178,42 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
             {/* Left — Our Story */}
             <div>
-              <span className="typo-label" style={{ display: "block", marginBottom: "8px" }}>Our Story</span>
-              <h2 className="typo-h2" style={{ marginBottom: "14px" }}>
-                From Freelancer to Full-Service Agency
-              </h2>
-              <p className="typo-body" style={{ marginBottom: "12px" }}>
-                In 2018, I started my journey as an SEO expert on Fiverr,
-                working with different clients and helping improve their dropshipping stores.
-                I worked on many projects and always focused on giving the best results.
-                In 2020, I started learning and working on Amazon dropshipping
-                at Ecomhutsy in Multan, where I gained real experience in eCommerce.
-                In 2022, I started my own business, and after getting good success,
-                decided to grow with a team. In 2023,
-                I registered my company in the USA as Gosellify LLC.
-              <div>
-                <p className="typo-h3" style={{ color: "var(--color-primary)", marginBottom: "2px", fontSize: "16px" }}>
-                  Muhammad Jamshed
-                </p>
-                <p className="typo-small">Founder &amp; Head Of Business, Gosellify</p>
-              </div>
+  <span className="typo-label" style={{ display: "block", marginBottom: "8px" }}>
+    Our Story
+  </span>
 
+  <h2 className="typo-h2" style={{ marginBottom: "14px" }}>
+    From Freelancer to Full-Service Agency
+  </h2>
+
+  <p className="typo-body" style={{ marginBottom: "12px" }}>
+    In 2018, I started my journey as an SEO expert on Fiverr,
+    working with different clients and helping improve their dropshipping stores.
+    I worked on many projects and always focused on giving the best results.
+    In 2020, I started learning and working on Amazon dropshipping
+    at Ecomhutsy in Multan, where I gained real experience in eCommerce.
+    In 2022, I started my own business, and after getting good success,
+    decided to grow with a team. In 2023,
+    I registered my company in the USA as Gosellify LLC.
+  </p> {/* ✅ THIS WAS MISSING */}
+
+  <div>
+    <p
+      className="typo-h3"
+      style={{
+        color: "var(--color-primary)",
+        marginBottom: "2px",
+        fontSize: "16px",
+      }}
+    >
+      Muhammad Jamshed
+    </p>
+
+    <p className="typo-small">
+      Founder &amp; Head Of Business, Gosellify
+    </p>
+  </div>
+</div>
             {/* Right — Values */}
             <div>
               <span className="typo-label" style={{ display: "block", marginBottom: "8px" }}>Our Values</span>
