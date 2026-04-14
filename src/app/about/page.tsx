@@ -144,7 +144,7 @@ export default function AboutPage() {
                 that&apos;s the Gosellify way!
               </p>
               <a
-                href="https://wa.link/m2ac6m"
+                href="https://wa.me/message/Q6XJRMT4HKTBF1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary"
@@ -157,7 +157,7 @@ export default function AboutPage() {
 
             <div style={{ display: "flex", justifyContent: "center" }}>
               <img
-                src="/images/about/team-group.webp"
+                src="/images/about/muhammad-jamshed.webp"
                 alt="Gosellify Team"
                 style={{
                   width: "100%",
