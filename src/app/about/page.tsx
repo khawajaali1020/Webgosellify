@@ -141,7 +141,7 @@ export default function AboutPage() {
               <p className="typo-body" style={{ marginBottom: "20px" }}>
                 Let us join your Amazon adventure and make your business soar.
                 We keep things straightforward and successful &ndash;
-                that&apos;s the Gosellify way!
+                that&apos;s the Gosellify way!.
               </p>
               <a
                 href="https://wa.me/message/Q6XJRMT4HKTBF1"
