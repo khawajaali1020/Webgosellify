@@ -191,12 +191,11 @@ export default function AboutPage() {
               </p>
               <p className="typo-body" style={{ marginBottom: "14px" }}>
                 By the end of 2018, I started a journey with Amazon. With huge success,
-                I decided to expand with a team. In 2021, we registered in the USA as EKKID LLC.
-                In 2023, we rebranded to &apos;Gosellify.&apos;
+                I decided to expand with a team. In 2021, we registered in the USA as Gosellify LLC.
               </p>
               <div>
                 <p className="typo-h3" style={{ color: "var(--color-primary)", marginBottom: "2px", fontSize: "16px" }}>
-                  Atikur Rahman Shohel
+                  Muhammad Jamshed
                 </p>
                 <p className="typo-small">Founder &amp; Head Of Business, Gosellify</p>
               </div>
