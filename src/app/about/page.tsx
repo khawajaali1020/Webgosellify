@@ -197,7 +197,6 @@ export default function AboutPage() {
                 </p>
                 <p className="typo-small">Founder &amp; Head Of Business, Gosellify</p>
               </div>
-            </div>
 
             {/* Right — Values */}
             <div>
