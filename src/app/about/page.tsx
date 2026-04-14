@@ -125,11 +125,11 @@ export default function AboutPage() {
               </h2>
               <p className="typo-body" style={{ marginBottom: "12px" }}>
                 Hello and welcome to Gosellify, your friendly Amazon business
-                advisor since 2018. We&apos;re thrilled to share our journey
+                advisor since 2022. We&apos;re thrilled to share our journey
                 with you &ndash; it includes partnering with over 200 clients,
                 completing upward of 250 projects, and growing our team to more
                 than 50 enthusiastic members. We&apos;ve spread our wings across
-                nine different countries, helping people just like you everywhere.
+                three different countries, helping people just like you everywhere.
               </p>
               <p className="typo-body" style={{ marginBottom: "12px" }}>
                 Our team is here to make selling on Amazon a breeze. Whether
