@@ -191,11 +191,6 @@ export default function AboutPage() {
                 In 2022, I started my own business, and after getting good success,
                 decided to grow with a team. In 2023,
                 I registered my company in the USA as Gosellify LLC.
-              </p>
-              <p className="typo-body" style={{ marginBottom: "14px" }}>
-                By the end of 2022, I started a journey with Amazon. With huge success,
-                I decided to expand with a team. In 2021, we registered in the USA as Gosellify LLC.
-              </p>
               <div>
                 <p className="typo-h3" style={{ color: "var(--color-primary)", marginBottom: "2px", fontSize: "16px" }}>
                   Muhammad Jamshed
