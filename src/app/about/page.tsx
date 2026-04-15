@@ -20,22 +20,22 @@ const values = [
 
 const teamMembers = [
   {
-    name: "Atikur Shohel",
+    name: "Muhammad Jamshed",
     title: "Founder & Head Of Business",
-    bio: "Founder & Head Of Business of Gosellify. Have 9 years experience with ecommerce.",
-    photo: "/images/about/atikur-shohel.jpeg",
+    bio: "Founder & Head Of Business of Gosellify. Have 8 years experience with ecommerce.",
+    photo: "/images/about/muhammad-jamshed-dp.jpeg",
   },
   {
-    name: "Abu Shama",
-    title: "Manager, Amazon Arbitrage",
+    name: "Ahmad Ali",
+    title: "Co-Founder",
     bio: "Abu Sama have 6 years ecommerce experience and leading the Amazon department",
-    photo: "/images/about/abu-shama.webp",
+    photo: "/images/about/ahmad-ali.webp",
   },
   {
-    name: "Hossain Rifat",
-    title: "Manager, eBay Department",
+    name: "Muhammad Umar",
+    title: "Manager, Amazon Arbitrage",
     bio: "Rifat have 5 years experience with eBay. He leading 30+ active ebay stores.",
-    photo: "/images/about/hossain-rifat.webp",
+    photo: "/images/about/muhammad-umar.webp",
   },
   {
     name: "Mohammad Amir",
