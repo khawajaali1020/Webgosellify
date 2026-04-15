@@ -28,13 +28,13 @@ const teamMembers = [
   {
     name: "Ahmad Ali",
     title: "Co-Founder",
-    bio: "Abu Sama have 6 years ecommerce experience and leading the Amazon department",
+    bio: "Co-Founder & Head of Operations at Gosellify. Ahmad Ali have 8 years ecommerce experience.",
     photo: "/images/about/ahmad-ali.webp",
   },
   {
     name: "Muhammad Umar",
     title: "Manager, Amazon Arbitrage",
-    bio: "Rifat have 5 years experience with eBay. He leading 30+ active ebay stores.",
+    bio: "Muhammad Umar have 6 years ecommerce experience and leading the Amazon department.",
     photo: "/images/about/muhammad-umar.webp",
   },
   {
