@@ -23,7 +23,7 @@ const teamMembers = [
     name: "Muhammad Jamshed",
     title: "Founder & Head Of Business",
     bio: "Founder & Head Of Business of Gosellify. Have 8 years experience with ecommerce.",
-    photo: "/images/about/muhammad-jamshed-dp.jpeg",
+    photo: "/images/about/muhammad-jamshed-dp.webp",
   },
   {
     name: "Ahmad Ali",
