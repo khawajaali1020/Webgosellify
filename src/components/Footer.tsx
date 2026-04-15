@@ -335,7 +335,7 @@ export default function Footer() {
           >
             <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
               <p style={{ color: "#5a5a70", fontSize: "14px" }}>
-                &copy; {new Date().getFullYear()} GoSellify. All Rights Reserved.
+                &copy; {new Date().getFullYear()} Gosellify. All Rights Reserved.
               </p>
               <div className="flex items-center" style={{ gap: "20px" }}>
                 <Link
