@@ -6,6 +6,7 @@ import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import ScrollToTop from "@/components/ScrollToTop";
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const roboto = Roboto({
   subsets: ["latin"],
@@ -39,6 +40,7 @@ export default function RootLayout({
         <Footer />
         <WhatsAppButton />
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
