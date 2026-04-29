@@ -52,7 +52,6 @@ const navLinks: NavItem[] = [
       { name: "Etsy Dropshipping", href: "/services/etsy-dropshipping", desc: "Etsy store management" },
       { name: "eBay Dropshipping", href: "/services/ebay-dropshipping", desc: "eBay store management" },
       { name: "Warehouse Service", href: "/services/3pl-warehouse", desc: "3PL storage & fulfillment" },
-      { name: "Flat Rate Cheap Shipping Label", href: "/services/flat-rate-shipping", desc: "Discounted shipping rates" },
       { name: "Company Filing LLC & LTD", href: "/services/company-filing", desc: "Business formation services" },
       { name: "Company Tax Filing", href: "/services/tax-filing", desc: "Tax preparation & filing" },
     ],
